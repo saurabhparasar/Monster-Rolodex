@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 import "./card.styles.css";
 const Card = (props) => {
   return (
